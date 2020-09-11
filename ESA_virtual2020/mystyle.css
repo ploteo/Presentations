@@ -66,6 +66,7 @@ a, a > code {
 
 .red { color: red; }
 .blue { color: blue; }
+.compact{ font-size:70%; line-height:1.2em;}
 
 .inverse {
   background-color: #27332F;
